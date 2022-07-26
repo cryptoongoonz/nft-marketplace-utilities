@@ -1,4 +1,5 @@
 #!/bin/bash
+# No longer needed... Looks Rare supports full collection refresh.
 
 contractAddress=0x0322f6f11a94cfb1b5b6e95e059d8deb2bf17d6a
 
